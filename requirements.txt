@@ -14,7 +14,6 @@ constantly==15.1.0
 cryptography==3.4.8
 dbus-python==1.2.18
 distro==1.7.0
-distro-info===1.1build1
 Django==4.1.5
 gyp==0.1
 httplib2==0.20.2
@@ -50,8 +49,6 @@ pyOpenSSL==21.0.0
 pyparsing==2.4.7
 pyrsistent==0.18.1
 pyserial==3.5
-python-apt==2.3.0+ubuntu2.1
-python-debian===0.1.43ubuntu1
 pytz==2022.1
 PyYAML==5.4.1
 requests==2.25.1
